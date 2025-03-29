@@ -1,0 +1,22 @@
+# MATLAB and Simulink temporary/backup files
+*.asv
+*.autosave
+*.m~
+*.mdl.autosave
+*.slx.autosave
+*.slxc
+*.mex*
+*.fig
+*.bak
+*.tmp
+
+# MATLAB Drive & system clutter
+.MATLABDriveTag
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore simulation cache or build artifacts
+slprj/
+sccprj/
+work/
