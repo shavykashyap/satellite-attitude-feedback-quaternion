@@ -22,8 +22,6 @@ The feedback controller achieves stable convergence to the desired quaternion or
 ## 🔗 Related Work
 This project is part of my graduate research in **Controls** at the University of Washington’s Department of Aeronautics and Astronautics.
 
-Visit the [Projects page](https://your-portfolio-link.com/projects) on my portfolio site to explore more.
-
 ## 📄 License
 This repository is licensed under the [MIT License](./LICENSE).
 
