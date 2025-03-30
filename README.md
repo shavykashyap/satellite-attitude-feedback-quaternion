@@ -11,18 +11,29 @@ This project implements a quaternion-based feedback control system for satellite
 ## 🧰 Tools & Methods
 - MATLAB 
 - Simulink
-- Quaternion kinematics
-- State-feedback control design
-
-## 📂 Repository Structure
+- Spacecraft kinematics
+- Quaternion-based feedback regulator
 
 ## 📈 Results
 The feedback controller achieves stable convergence to the desired quaternion orientation, with minimal steady-state error and smooth rotational transitions. Simulation plots and system responses are included to illustrate performance.
 
+Below is a result
+
+
 ## 🔗 Related Work
 This project is part of my graduate research in **Controls** at the University of Washington’s Department of Aeronautics and Astronautics.
 
-## 📄 License
-This repository is licensed under the [MIT License](./LICENSE).
+## 📚 Citations
 
+```bibtex
+@article{kim2004quadratically,
+  title={Quadratically constrained attitude control via semidefinite programming},
+  author={Kim, Yoonsoo and Mesbahi, Mehran},
+  journal={IEEE Transactions on Automatic Control},
+  volume={49},
+  number={5},
+  pages={731--735},
+  year={2004},
+  publisher={IEEE}
+}
 
