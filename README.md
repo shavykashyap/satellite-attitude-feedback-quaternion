@@ -17,7 +17,8 @@ This project implements a quaternion-based feedback control system for satellite
 ## 📈 Results
 The feedback controller achieves stable convergence to the desired quaternion orientation, with minimal steady-state error and smooth rotational transitions. Simulation plots and system responses are included to illustrate performance.
 
-Below is a result
+![Quaternion Tracking Error](./results/quaternion_error_pub.png)
+> The figure above shows the error in quaternion components over time, demonstrating fast and stable convergence to the target attitude.
 
 
 ## 🔗 Related Work
@@ -25,15 +26,6 @@ This project is part of my graduate research in **Controls** at the University o
 
 ## 📚 Citations
 
-```bibtex
-@article{kim2004quadratically,
-  title={Quadratically constrained attitude control via semidefinite programming},
-  author={Kim, Yoonsoo and Mesbahi, Mehran},
-  journal={IEEE Transactions on Automatic Control},
-  volume={49},
-  number={5},
-  pages={731--735},
-  year={2004},
-  publisher={IEEE}
-}
+Kim, Y. and Mesbahi, M., 2004. *Quadratically constrained attitude control via semidefinite programming*. IEEE Transactions on Automatic Control, 49(5), pp.731–735.
+
 
