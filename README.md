@@ -27,5 +27,3 @@ This project is part of my graduate research in **Controls** at the University o
 ## 📚 Citations
 
 Kim, Y. and Mesbahi, M., 2004. *Quadratically constrained attitude control via semidefinite programming*. IEEE Transactions on Automatic Control, 49(5), pp.731–735.
-
-
